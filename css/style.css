@@ -26,18 +26,5 @@ a::before {
   margin-right: 10px;
 }
 
-#button {
-  display: inline-block;
-  background-color: #664e88;
-  padding: 18px 20px;
-  box-shadow: 5px 5px 0px #000000;
-  margin-right: 0;
-  transition: transform 200ms ease-in-out, box-shadow 200ms ease-in-out,
-    color 200ms ease-in-out;
-}
-#button:hover {
-  color: #63b4b8;
-  box-shadow: 5px 5px 0px #63b4b8;
-  transform: scale(1.05);
-}
+
 
